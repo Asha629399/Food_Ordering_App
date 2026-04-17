@@ -1,0 +1,14 @@
+# Backend
+backend/node_modules/
+backend/dist/
+backend/restaurant.db
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# General
+.DS_Store
+*.log
